@@ -1,0 +1,74 @@
+html {
+  font-family: arial;
+}
+div.main{
+  text-align: center;
+}
+h1{
+  font-family: arial, serif;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 20px 0px;
+  margin: 0;
+  display: block;
+}
+h2 span.six{
+  border-bottom: 1px solid yellow;
+  }
+
+li{
+  display: inline-block;
+  background-color: lightgrey;
+  font-size: 20pxpx;
+  color: white;
+  font-weight: bold;
+  padding: 5px 5px;
+  width: 200px;
+}
+
+nav{
+  display: block;
+  text-align: center;
+  margin: 0px;
+}
+
+h2{
+  color: black;
+  background-color: aqua;
+  margin: 30px 10px;
+  padding: 5px 20px;
+  text-align: left
+}
+
+
+div.one{
+  box-sizing: border-box;
+  display:inline-block;
+  width: 300px;
+  }
+img{
+  box-sizing: border-box;
+  display: block;
+  width: 300px
+}
+p.edit{
+  box-sizing: border-box;
+  display: block;
+  text-align: center;
+  background-color: gold;
+  margin: 10px 0;
+
+}
+div#first{
+  display: block;
+  width: 300px
+}
+
+p.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 30px
+}
